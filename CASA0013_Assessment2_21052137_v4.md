@@ -104,7 +104,7 @@ When it comes to urbanization or urban governance, race is an unavoidable part o
 
 ## Appendix 
 
-![Potential Zombie Data]('https://github.com/JunqiHu23/fsds_chris/blob/main/1.png')
+![Potential Zombie Data]('https://img-blog.csdnimg.cn/c6ab66316cbd440ab5f5c9f9dd6f02ec.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56iL5bqP54y_MjMyMTM4,size_14,color_FFFFFF,t_70,g_se,x_16#pic_center')
 ```python
 
 ```
