@@ -33,11 +33,11 @@ Each collection of a single city is called a survey, which is an automated colle
 ### 4. What useful information does it contain?
 
 The dataset contains 74 fields, of which the following are the most useful information[4]:
-*host_id: The host is unambiguously identified by a unique identifier.
-*room_type: All homes are grouped into three types “Entire home/apt”, “Private room”, or “Shared room”.
-*location: Each host_id has a latitude and longitude, which could analyze the distribution feature and visualize the thematic map
-*price: Price is the most important indicator, which is the foundation of all the analysis.
-*review：In the absences of internal Airbnb data, the number of reviews can indicate the rooms’ popularity.
+* host_id: The host is unambiguously identified by a unique identifier.
+* room_type: All homes are grouped into three types “Entire home/apt”, “Private room”, or “Shared room”.
+* location: Each host_id has a latitude and longitude, which could analyze the distribution feature and visualize the thematic map
+* price: Price is the most important indicator, which is the foundation of all the analysis.
+* review：In the absences of internal Airbnb data, the number of reviews can indicate the rooms’ popularity.
 
 
 ### 5. To what extent is the data 'complete'?
