@@ -75,31 +75,31 @@ When it comes to urbanization or urban governance, race is an unavoidable part o
 
 ## Bibliography
 
-[1]&emsp;N. Gurran and P. Phibbs, “When Tourists Move In: How Should Urban Planners Respond to Airbnb?,” Journal of the American Planning Association, &emsp;vol. 83, no. 1, pp. 80–92, Jan. 2017, doi: 10.1080/01944363.2016.1249011.
+[1]&emsp;N. Gurran and P. Phibbs, “When Tourists Move In: How Should Urban Planners Respond to Airbnb?,” Journal of the American Planning Association, vol. 83, no. 1, pp. 80–92, Jan. 2017, doi: 10.1080/01944363.2016.1249011.
 
-[2]	A. Alsudais, “Incorrect data in the widely used Inside Airbnb dataset,” Decision Support Systems, vol. 141, Feb. 2021, doi: 10.1016/j.dss.2020.113453.
+[2]&emsp;A. Alsudais, “Incorrect data in the widely used Inside Airbnb dataset,” Decision Support Systems, vol. 141, Feb. 2021, doi: 10.1016/j.dss.2020.113453.
 
-[3]	S. Elwood and A. Leszczynski, “Feminist digital geographies,” Gender, Place and Culture, vol. 25, no. 5, pp. 629–644, May 2018, doi: 10.1080/0966369X.2018.1465396.
+[3]&emsp;S. Elwood and A. Leszczynski, “Feminist digital geographies,” Gender, Place and Culture, vol. 25, no. 5, pp. 629–644, May 2018, doi: 10.1080/0966369X.2018.1465396.
 
-[4]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” 2016. [Online]. Available: http://www.nytimes.com/2015/12/02/technology/airbnb-releases-trove-of-new-york-city-home-sharing-data.html
+[4]&emsp;M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” 2016. [Online]. Available: http://www.nytimes.com/2015/12/02/technology/airbnb-releases-trove-of-new-york-city-home-sharing-data.html
 
-[5]	“Data Feminism • Data Feminism 6. The Numbers Don’t Speak for Themselves License: Creative Commons Attribution 4.0 International License (CC-BY 4.0),” 2020.
+[5]&emsp;“Data Feminism • Data Feminism 6. The Numbers Don’t Speak for Themselves License: Creative Commons Attribution 4.0 International License (CC-BY 4.0),” 2020.
 
-[6]	B. Chi, A. Dennett, T. Oléron-Evans, and R. Morphet, “WORKING PAPERS SERIES Creating a new dataset to analyse house prices in England Creating a new dataset to analyse house prices in England”, [Online]. Available: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
+[6]&emsp;B. Chi, A. Dennett, T. Oléron-Evans, and R. Morphet, “WORKING PAPERS SERIES Creating a new dataset to analyse house prices in England Creating a new dataset to analyse house prices in England”, [Online]. Available: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 
-[7]	G. Dudás, G. Vida, T. Kovalcsik, and L. Boros, “A socio-economic analysis of Airbnb in New York City,” Regional Statistics, vol. 7, no. 1, pp. 135–151, 2017, doi: 10.15196/RS07108.
+[7]&emsp;G. Dudás, G. Vida, T. Kovalcsik, and L. Boros, “A socio-economic analysis of Airbnb in New York City,” Regional Statistics, vol. 7, no. 1, pp. 135–151, 2017, doi: 10.15196/RS07108.
 
-[8]	K. Gyódi and Ł. Nawaro, “Determinants of Airbnb prices in European cities: A spatial econometrics approach,” Tourism Management, vol. 86, Oct. 2021, doi: 10.1016/j.tourman.2021.104319.
+[8]&emsp;K. Gyódi and Ł. Nawaro, “Determinants of Airbnb prices in European cities: A spatial econometrics approach,” Tourism Management, vol. 86, Oct. 2021, doi: 10.1016/j.tourman.2021.104319.
 
-[9]	M. Ferreri and R. Sanyal, “Platform economies and urban planning: Airbnb and regulated deregulation in London,” Urban Studies, vol. 55, no. 15, pp. 3353–3368, Nov. 2018, doi: 10.1177/0042098017751982.
+[9]&emsp;M. Ferreri and R. Sanyal, “Platform economies and urban planning: Airbnb and regulated deregulation in London,” Urban Studies, vol. 55, no. 15, pp. 3353–3368, Nov. 2018, doi: 10.1177/0042098017751982.
 
-[10]	“Digital discrimination: Airbnb Amsterdam.”
+[10]&emsp;“Digital discrimination: Airbnb Amsterdam.”
 
-[11]	V. van den Bemt, J. Doornbos, L. Meijering, M. Plegt, and N. Theunissen, “Teaching ethics when working with geocoded data: a novel experiential learning approach,” Journal of Geography in Higher Education, vol. 42, no. 2, pp. 293–310, Apr. 2018, doi: 10.1080/03098265.2018.1436534.
+[11]&emsp;V. van den Bemt, J. Doornbos, L. Meijering, M. Plegt, and N. Theunissen, “Teaching ethics when working with geocoded data: a novel experiential learning approach,” Journal of Geography in Higher Education, vol. 42, no. 2, pp. 293–310, Apr. 2018, doi: 10.1080/03098265.2018.1436534.
 
-[12] 	 Tom Slee, (2013). Airbnb Data Collection: Methodology and Accuracy [online]. Available: https://tomslee.net/airbnb-data-collection-methodology-and-accuracy
+[12]&emsp; Tom Slee, (2013). Airbnb Data Collection: Methodology and Accuracy [online]. Available: https://tomslee.net/airbnb-data-collection-methodology-and-accuracy
 
-[13] 	Inside Airbnb. (2013). Disclaimers [online]. Available: http://insideairbnb.com/about.html
+[13]&emsp;Inside Airbnb. (2013). Disclaimers [online]. Available: http://insideairbnb.com/about.html
 
 
 ## Appendix 
